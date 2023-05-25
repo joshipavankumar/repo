@@ -1,0 +1,1 @@
+https://catalog.us-east-1.prod.workshops.aws/workshops/77bdff4f-2d9e-4d68-99ba-248ea95b3aca/en-US/sqlserver-aurora-postgres/schema-conversion/install
